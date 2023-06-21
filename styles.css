@@ -4,11 +4,11 @@ table {
     /* border-collapse: separate; */
     background-color: yellow;
     width: 100%;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 td, th {
-    border: 3px solid black;
+    border: 1px solid black;
     text-align: left;
     padding: 8px;
   }
