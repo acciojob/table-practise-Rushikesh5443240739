@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+table {
+    font-family: arial, sans-serif;
+    /* border-collapse: separate; */
+    background-color: yellow;
+    width: 100%;
+    border: 2px solid black;
+}
+
+td, th {
+    border: 3px solid black;
+    text-align: left;
+    padding: 8px;
+  }
